@@ -57,7 +57,7 @@ A full-stack task management application built with React, Express, and MongoDB.
 1. Open your terminal and navigate to the directory where you want to clone the project
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TaskManage.git
+   git clone https://github.com/AkashS0109/TaskManage.git
    ```
 3. Navigate to the project directory:
    ```bash
